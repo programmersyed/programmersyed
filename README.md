@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @programmersyed
 - 👀 I’m interested in sports and video games. I enjoy playing Fifa and Madden. I also like playing sandbox games like Minecraft. I enjoy watching football, soccer, and basketball. 
-- 🌱 I’m currently learning Javascript and I would like to be a Full Stack Developer. 
+- 🌱 I’m currently learning Data Structures and Algorithms.  
 - 💞️ I’m looking to collaborate on nothing at the moment. 
 - 📫 How to reach me at abrahasyed10@gmail.com
 
